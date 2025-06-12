@@ -1,4 +1,4 @@
-print("Hello, my name is Emir")
-print("Emir is currently studiyng python")
-print("Emir loves DevOps")
+print("Hello, my name is AO")
+print("AO is currently studiyng python")
+print("AO loves DevOps")
 print(26*30*12)
