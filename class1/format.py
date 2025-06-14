@@ -1,4 +1,4 @@
-name="Emir"
+name="AO"
 
 print(f"Hello, my name is {name}")
 print(f"{name} is currently studiyng python")
